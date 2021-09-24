@@ -26,7 +26,7 @@ public class ExecptionsTypes {
     }
 	*/
 	
-	/*NullPointerException
+	/*StringIndexOutOfBoundsException
 	public static void main(String args[])
     {
         try {
