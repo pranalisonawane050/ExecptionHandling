@@ -11,8 +11,6 @@ public class FileNotFoundExceptionExample
         	FileInputStream in = new FileInputStream("input.txt");
             System.out.println("This is not printed");
            
-           
-          
         } 
         catch (IOException e)
         {
